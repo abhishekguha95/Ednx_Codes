@@ -1,1 +1,1 @@
-# Eduonix Problems and Projects
+# Eduonix Course Problems and Projects
